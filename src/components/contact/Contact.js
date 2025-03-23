@@ -154,8 +154,8 @@ const Contact = () => {
 
               {/* Success Message (Moved Below) */}
               {successMsg && (
-                <p className="py-3 text-green-500 text-base tracking-wide animate-bounce text-center">
-                  {/* {successMsg} */}
+                <p className="py-3 text-green-500 text-base tracking-wide  text-center">
+                  {successMsg}
                 </p>
               )}
             </form>
