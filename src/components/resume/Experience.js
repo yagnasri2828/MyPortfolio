@@ -17,7 +17,7 @@ const Experience = () => {
         <div className="mt-3 lgl:mt-3 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Web Development Intern"
-            subTitle="EDUSKILLS - (March 2025 - Present)"
+            subTitle="EDUSKILLS - (January 2025 - March 2025)"
             result="Virtual"
             des="Worked on front-end and back-end development using HTML, CSS, JavaScript, Tailwind CSS, SQL, and MongoDB.
                 Currently working on version control and web hosting for deploying applications."
