@@ -16,8 +16,8 @@ const Experience = () => {
         </div>
         <div className="mt-3 lgl:mt-3 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="MERN Fullstack Web Development"
-            subTitle="Edubot - (May 2025 - June 2025)"
+            title="MERN Fullstack Web Development Intern"
+            subTitle="Sirian OverSeas - (May 2025 - June 2025)"
             result="Vijayawada"
             des="Built full-stack web applications using the MERN stack by developing responsive frontends with React and Tailwind CSS, and creating secure, scalable backends with Node.js, Express, and MongoDB. 
             Gained hands-on experience in integrating APIs, handling user authentication, using Postman for testing, and deploying applications — improving my real-world development and debugging skills."
