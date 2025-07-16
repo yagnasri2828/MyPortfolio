@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree, projectFour,projectFive } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour,projectFive,projectSix } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -16,6 +16,13 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <ProjectsCard
+          title="Event Nest"
+          des=" It is an event planning dashboard with integrated features like RSVP tracking, email reminders, and query handling to enhance user engagement and event coordination.Implemented secure authentication, user profile management with image uploads, and dynamic calendar views for efficient event planning."
+          src={projectSix}
+          githubLink= "https://github.com/yagnasri2828/eventplanning"
+          liveLink ="https://eventplanningdashboard.netlify.app/"
+        />
         <ProjectsCard
           title="Study Sphere"
           des="The StudySphere project uses HTML, CSS, and JavaScript for an interactive front-end, while JSP and Java power the back-end for dynamic content. It is likely hosted on Apache Tomcat and utilizes MySQL for database management. This technology stack ensures a seamless learning experience with interactive quizzes and digital resources."
@@ -51,6 +58,7 @@ const Projects = () => {
           githubLink= "https://github.com/yagnasri2828/AccidentDetection"
           // liveLink ="https://studyspherewebsite.netlify.app/"
         />
+        
         {/* <ProjectsCard
           title="DASHBOARD USING POWERBI"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.

@@ -23,7 +23,7 @@ const LeftBanner = () => {
           I'm <span className="text-designColor capitalize">KURAKULA YAGNA SRI</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
-          Pre final year Student.<span>{text}</span>
+          Final year Student.<span>{text}</span>
           <Cursor
             cursorBlinking="false"
             cursorStyle=""
@@ -60,7 +60,7 @@ const LeftBanner = () => {
                 <FaLinkedinIn />
               </span>
             </a>
-            <a href="https://drive.google.com/file/d/1sOnHeGFa6pn8ax7k8FTm3jIH9R_XzkY1/view?usp=sharing" target="blank">
+            <a href="https://drive.google.com/file/d/1GZL0VDt_svrnGr1uu6TTnOTDRl-SILB0/view" target="blank">
               <span className="bannerIcon">
                 <FaFile />cv
               </span>

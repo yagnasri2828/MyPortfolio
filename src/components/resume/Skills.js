@@ -18,7 +18,7 @@ const Achievement = () => {
         <ResumeCard 
   title={
     <span className="text-xl font-semibold text-left w-full block">
-      HTML <br/> CSS<br/> JavaScript<br/> React<br/> Tailwind CSS<br/> Firebase<br/> SQL
+      HTML <br/> CSS<br/> JavaScript<br/>MERN Stack<br/> Tailwind CSS<br/> Firebase<br/> SQL
     </span>
   } 
 />
@@ -35,7 +35,7 @@ const Achievement = () => {
         <ResumeCard 
   title={
     <span className="text-xl font-semibold text-left w-full block">
-      Java<br/> Python<br/> C<br/> DSA
+      Java<br/> Python<br/> C (familiar)<br/> DSA
     </span>
   } 
 />

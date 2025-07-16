@@ -18,7 +18,7 @@ const Education = () => {
           <ResumeCard
             title="BTech in Artificial Intelligence and Data Science"
             subTitle="Lakireddy Bali Reddy College of Engineering (2022 - 2026)"
-            result="8.82/10 (upto 5th semester)"
+            result="8.81/10 (upto 3rd year)"
           />
           <ResumeCard
             title="Intermediate - Mathematics, Physics, Chemistry"

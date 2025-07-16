@@ -19,7 +19,7 @@ const Footer = () => {
           <ul className="flex flex-wrap justify-center gap-6 font-titleFont font-medium">
             <li><a href="https://github.com/yagnasri2828" target="_blank" rel="noopener noreferrer" className="hover:text-designColor duration-300">GitHub</a></li>
             <li><a href="https://www.linkedin.com/in/yagnasri2828/" target="_blank" rel="noopener noreferrer" className="hover:text-designColor duration-300">LinkedIn</a></li>
-            <li><a href="https://drive.google.com/file/d/1sOnHeGFa6pn8ax7k8FTm3jIH9R_XzkY1/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-designColor duration-300">Resume</a></li>
+            <li><a href="https://drive.google.com/file/d/1GZL0VDt_svrnGr1uu6TTnOTDRl-SILB0/view" target="_blank" rel="noopener noreferrer" className="hover:text-designColor duration-300">Resume</a></li>
           </ul>
         </div>
 
